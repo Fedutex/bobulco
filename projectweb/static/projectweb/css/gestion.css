@@ -275,7 +275,7 @@ a.link:hover{
 ul.errorlist{
   padding-top: .75rem;
   font-style: italic;
-  color: red;
+  color: rgb(112, 91, 91);
 }
 
 .linksCategorias{
